@@ -3,7 +3,7 @@ Implementing the Bidirectional Attention Flow model using pytorch
 
 0. configure your environment:
 
-        - create a conda env : conda create {"env name"} python= 3.5
+        - create a conda env : conda create {"env name"} python= 3.6
         - activate {"env name"}
         - install all requirements 
 
